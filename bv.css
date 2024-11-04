@@ -1,0 +1,48 @@
+/* Estilos principais */
+body {
+    font-family: Arial, sans-serif;
+    background-color: #e0f2e9; /* Verde claro para o fundo */
+    color: #2e7d32; /* Verde escuro para o texto */
+    margin: 0;
+    padding: 0;
+}
+
+/* Título principal */
+h1 {
+    text-align: center;
+    color: #1b5e20; /* Verde ainda mais escuro para o título */
+    margin-top: 20px;
+    font-size: 2em;
+}
+
+/* Conteúdo centralizado */
+.container {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+    text-align: center;
+}
+
+/* Links */
+a {
+    color: #388e3c;
+    text-decoration: none;
+}
+
+a:hover {
+    color: #1b5e20;
+}
+
+/* Botão */
+button {
+    background-color: #4caf50;
+    color: #ffffff;
+    border: none;
+    padding: 10px 20px;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: #388e3c;
+}
